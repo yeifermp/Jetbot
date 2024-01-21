@@ -7,7 +7,6 @@
 #include "esp_timer.h"
 #include "driver/pulse_cnt.h"
 #include "bdc_motor.h"
-#include "pid_ctrl.h"
 #include "driver/i2c.h"
 #include "freertos/queue.h"
 

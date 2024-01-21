@@ -1,1 +1,3 @@
-src/pwm_controller/pwm_controller/build
+src/esp32/pwm-controller/build/
+src/esp32/pwm-controller/managed_components/
+*.lock
